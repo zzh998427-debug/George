@@ -1,0 +1,3 @@
+curl -fsSL https://raw.githubusercontent.com/<YOUR_USERNAME>/proxysbx/main/proxysbx.sh -o proxysbx.sh
+chmod +x proxysbx.sh
+sudo ./proxysbx.sh
